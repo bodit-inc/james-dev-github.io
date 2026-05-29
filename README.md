@@ -1,1 +1,1 @@
-# james-dev-github.io
+# james-dev.github.io
